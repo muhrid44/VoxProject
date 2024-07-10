@@ -1,0 +1,6 @@
+@VoxProject.Server_HostAddress = http://localhost:5170
+
+GET {{VoxProject.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
